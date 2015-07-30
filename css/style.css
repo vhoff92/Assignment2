@@ -4,12 +4,12 @@ body {
    background-color: #d7deff;
 }
 h1 {
-   font-size: 3rem;
+   font-size: 3em;
    text-align: center;
 }
 
 h2 {
-   font-size: 2rem;
+   font-size: 2em;
    text-align: center;
 }
 address {
@@ -27,4 +27,8 @@ address {
 
 ol {
    margin-left: 100px;
+}
+
+li {
+   padding-bottom:10px;
 }
