@@ -7,17 +7,20 @@ h1 {
    font-size: 3em;
    text-align: center;
    font-family: 'Dancing Script', cursive;
+   color: #800000;
 }
 
 h2 {
    font-size: 2em;
    text-align: center;
    font-family: 'Open Sans', sans-serif;
-   font-weight: 400;
+   font-weight: 300;
 }
 address {
    text-align: right;
    font-style: italic;
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 400;
 }
 
 #quote1 {
@@ -31,15 +34,15 @@ address {
 ol {
    margin-left: 100px;
    font-family: 'Open Sans', sans-serif;
-   font-weight: 300;
+   font-weight: 400;
 }
 
 li {
    padding-bottom:10px;
    font-family: 'Open Sans', sans-serif;
-   font-weight: 300;
+   font-weight: 400;
 }
 p {
    font-family: 'Open Sans', sans-serif;
-   font-weight: 400;
+   font-weight: 300;
 }
