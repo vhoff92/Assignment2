@@ -1,13 +1,13 @@
 
 body {
    margin: 20px;
-   background-color: #d7deff;
+   background-color: #846689;
 }
 h1 {
    font-size: 3em;
    text-align: center;
    font-family: 'Dancing Script', cursive;
-   color: #800000;
+   color: #fff;
 }
 
 h2 {
@@ -15,7 +15,7 @@ h2 {
    text-align: center;
    font-family: 'Open Sans', sans-serif;
    font-weight: 300;
-   color: #800000;
+   color: #fff;
 }
 address {
    margin-left: 800px;
@@ -30,26 +30,50 @@ address {
    font-style: italic;
    margin: auto;
    width: 650px;
-   padding-bottom: 20px;
+   padding-bottom: 40px;
+   font-weight: 400;
 }
 .quote {
    font-style: italic;
 }
+.numbers {
+   font-weight: 400;
+}
+
 
 ol {
-   margin-left: 100px;
+   margin-left: 650px;
    font-family: 'Open Sans', sans-serif;
    font-weight: 300;
+   line-height: 20px;
+   padding-bottom: 30px;
 }
 
 li {
    padding-bottom:10px;
    font-family: 'Open Sans', sans-serif;
    font-weight: 300;
+   line-height: 20px;
+}
+
+ul{
+   margin-left: 50px;
 }
 p {
    font-family: 'Open Sans', sans-serif;
    font-weight: 300;
    padding-bottom: 5px;
    padding-top: 5px;
+   margin-left: 25px;
+   margin-right: 25px;
+   line-height: 18px;
 }
+
+img {
+   float: left;
+   padding-left: 100px;
+   width:350px;
+
+}
+
+
